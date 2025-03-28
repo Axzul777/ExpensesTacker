@@ -1,5 +1,4 @@
-# Github Activity Tracker PHP
-
+# PHP Simple CLI Expenses Tracker
 
 ## Challenge from
 - [roadmap sh](https://roadmap.sh/projects/expense-tracker)
